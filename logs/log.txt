@@ -1,0 +1,3 @@
+[2024-08-01 15:12:55] Query: SELECT * FROM academic_sem_grades_with_header WHERE rollno = ? | Params: 1401CS02
+[2024-08-01 15:13:29] Query: SELECT * FROM academic_sem_grades_with_header WHERE rollno = ? | Params: 1401CS02
+[2024-08-01 15:13:33] Query: SELECT * FROM academic_sem_grades_with_header WHERE rollno = ? | Params: 1401CS02
